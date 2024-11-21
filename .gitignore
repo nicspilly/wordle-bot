@@ -1,0 +1,30 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables and secrets
+.env
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Testing artifacts
+*.pytest_cache/
+*.coverage
+.coverage.*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
+
